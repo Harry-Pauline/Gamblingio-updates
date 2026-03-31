@@ -1,0 +1,9 @@
+Gambling.io 3.0.0
+
+- Released the first full graphical edition of Gambling.io.
+- Added a new 2D interface with a proper title screen, login flow, and main hub.
+- Added playable graphical versions of Slots, Coin Flip, High-Low, and Blackjack.
+- Added a graphical stock market with separate overview and investment screens.
+- Added graphical Profile, Bank, Patch Notes, and Bug Report screens.
+- Added house/admin login with a graphical dashboard and Player Management page.
+- Improved the overall UI with stronger panels, buttons, inputs, backgrounds, and layout consistency.
