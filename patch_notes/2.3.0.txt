@@ -1,0 +1,10 @@
+Gambling.io 2.3.0
+
+- Added daily rewards with login streak bonuses.
+- Added achievements for gameplay, trading, wealth, and loyalty milestones.
+- Added level and reputation progression.
+- Added win streak bonuses and expanded player stat tracking.
+- Added a patch notes screen on launch and a menu option to view patch notes anytime.
+- Added an in-game bug reporting system for players.
+- Added admin bug report viewing.
+- Refactored the project into cleaner modules for auth, data, games, bank, market, admin, and progression.
